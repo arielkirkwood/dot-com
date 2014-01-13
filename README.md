@@ -1,4 +1,4 @@
-arielkirkwood.github.com
-========================
+arielkirkwood.com
+=================
 
-My portfolio site.
+My portfolio site, under construction
