@@ -1,0 +1,5 @@
+destination: public
+exclude: [sass, .gitignore, README.md, Gemfile]
+name: arielkirkwood.com
+markdown: redcarpet
+pygments: true
